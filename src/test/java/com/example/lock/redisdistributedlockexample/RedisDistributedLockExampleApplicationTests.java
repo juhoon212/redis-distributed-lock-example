@@ -1,4 +1,4 @@
-package com.example.everspin.redisdistributedlockexample;
+package com.example.lock.redisdistributedlockexample;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
